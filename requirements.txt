@@ -23,7 +23,7 @@ kiwisolver==1.4.2
 labmaze==1.0.5
 lxml==4.9.0
 matplotlib==3.5.2
-mjrl @ git+https://github.com/aravindr93/mjrl@3871d93763d3b49c4741e6daeaebbc605fe140dc
+mjrl @ git+https://github.com/aravindr93/mjrl@master#egg=mjrl
 mujoco==2.2.0
 mujoco-py==2.0.2.13
 numpy
