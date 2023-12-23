@@ -28,7 +28,7 @@ mujoco==2.2.0
 mujoco-py==2.0.2.13
 numpy
 packaging==21.3
-pandas==1.4.2
+pandas
 Pillow==9.1.1
 protobuf==4.21.1
 pybullet==3.2.5
