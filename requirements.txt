@@ -26,7 +26,7 @@ matplotlib==3.5.2
 mjrl @ git+https://github.com/aravindr93/mjrl@3871d93763d3b49c4741e6daeaebbc605fe140dc
 mujoco==2.2.0
 mujoco-py==2.0.2.13
-numpy==1.22.4
+numpy==1.10.0
 packaging==21.3
 pandas==1.4.2
 Pillow==9.1.1
