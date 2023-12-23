@@ -7,7 +7,7 @@ cloudpickle==2.1.0
 cycler==0.11.0
 Cython==0.29.30
 d4rl @ git+https://github.com/rail-berkeley/d4rl@d842aa194b416e564e54b0730d9f934e3e32f854
-dm-control @ git+https://github.com/deepmind/dm_control@41d0c7383153f9ca6c12f8e865ef5e73a98759bd
+dm-control==1.0.16
 dm-env==1.5
 dm-tree==0.1.7
 fasteners==0.17.3
