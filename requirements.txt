@@ -43,3 +43,4 @@ typing_extensions==4.2.0
 urllib3==1.26.9
 zipp==3.8.0
 tensorboard
+d3rlpy==1.1.1
