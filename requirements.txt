@@ -23,8 +23,6 @@ kiwisolver==1.4.2
 labmaze==1.0.5
 lxml==4.9.0
 matplotlib==3.5.2
-mujoco==2.2.0
-mujoco-py==2.0.2.13
 numpy==1.22.4
 packaging==21.3
 pandas==1.4.2
